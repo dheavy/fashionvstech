@@ -2,6 +2,8 @@
 
 > Understand IT in Fashion to make better business decisions: ecommerce, retail, AI, augmented reality, blockchain...
 
+A JAMStack blog on IT in Fashion.
+
 ## Build Setup
 
 ```bash
