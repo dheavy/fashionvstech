@@ -4,9 +4,10 @@
 
 <script>
 export default {
-  name: 'PageSlug',
+  name: 'PagesSlug',
   async asyncData({$content, params}) {
-    const doc = await $content(params.slug || 'index').fetch();
+    console.log(params);
+    const doc = await $content(params.slug || 'index').fetch();
     return {doc};
   }
 }

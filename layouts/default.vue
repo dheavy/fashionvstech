@@ -1,8 +1,12 @@
 <template>
-  <div>
-    <nuxt />
-  </div>
+  <nuxt />
 </template>
+
+<script>
+export default {
+  name: 'LayoutsDefault'
+}
+</script>
 
 <style>
 html {

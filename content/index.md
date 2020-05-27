@@ -2,6 +2,6 @@
 title: Home
 ---
 
-## Title
+# Hello, world!
 
-Hello, world!
+[About page](/about)
